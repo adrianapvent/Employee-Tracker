@@ -1,22 +1,24 @@
 ![MIT](https://img.shields.io/badge/License-MIT-blue)
 
 ## Description
-Welcome to the Employee Footprint project!
+Welcome to the Employee Tracker project!
 An application that manages a company's employee database.
 You may visit the deployed [website]() to try it out for yourself!
 ## Table of Contents
-- [Description](#description)
-- [Table of Contents](#table-of-contents)
-- [User Story](#user-story)
-- [Acceptance Criteria](#acceptance-criteria)
-- [Mock-up](#mock-up)
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
-- [License](#license)
+- [Employee Tracker](#employee-tracker)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [User Story](#user-story)
+  - [Acceptance Criteria](#acceptance-criteria)
+  - [Mock-up](#mock-up)
+  - [Technologies](#technologies)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+  - [License](#license)
+
 ## User Story
 ~~~
 AS A business owner
@@ -84,7 +86,7 @@ Test
 If you have any questions, you may direct them to AdrianaPVent using the following links:
 | | Description |
 | --- | --- |
-| Name | Victor |
+| Name | Adriana |
 | Occupation | Developer |
 | E-mail | <adriana.e.pena@gmail.com> |
 | GitHub | <https://github.com/adrianapvent/> |
