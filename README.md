@@ -1,23 +1,22 @@
 ![MIT](https://img.shields.io/badge/License-MIT-blue)
-# Employee Footprint
+
 ## Description
 Welcome to the Employee Footprint project!
 An application that manages a company's employee database.
 You may visit the deployed [website]() to try it out for yourself!
 ## Table of Contents
-- [Employee Footprint](#employee-footprint)
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [User Story](#user-story)
-  - [Acceptance Criteria](#acceptance-criteria)
-  - [Mock-up](#mock-up)
-  - [Technologies](#technologies)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Questions](#questions)
-  - [License](#license)
+- [Description](#description)
+- [Table of Contents](#table-of-contents)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Mock-up](#mock-up)
+- [Technologies](#technologies)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+- [License](#license)
 ## User Story
 ~~~
 AS A business owner
@@ -28,7 +27,7 @@ SO THAT I can organize and plan my business
 ~~~
 GIVEN a command-line application that accepts user input
 ~~~
-- [ ] WHEN I start the application
+- [x] WHEN I start the application
 ~~~
 THEN I am presented with the following options: view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee role
 ~~~
