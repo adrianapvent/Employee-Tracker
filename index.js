@@ -1,5 +1,7 @@
 const inquirer = require('inquirer');
 const management = require('./util/management.js');
+const cTable = require('console.table');
+
 
 const promptOptions = () => {
     console.log(`
@@ -42,7 +44,7 @@ Management Options
                     break;
                  case 'Add a Department':
                      inquireDepartment();
-                     management.addDepartment(deptName).then(([departments]) => {
+                     management.addDepartment().then(([departments]) => {
                         console.table(departments);
                     });
                     break;
