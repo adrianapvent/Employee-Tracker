@@ -5,7 +5,7 @@ Welcome to the Employee Footprint project!
 An application that manages a company's employee database.
 You may visit the deployed [website]() to try it out for yourself!
 ## Table of Contents
-- [Employee Footprint](#employee-footprint)
+- [Employee Tracker](#employee-tracker)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [User Story](#user-story)
@@ -85,7 +85,7 @@ Test
 If you have any questions, you may direct them to AdrianaPVent using the following links:
 | | Description |
 | --- | --- |
-| Name | Victor |
+| Name | Adriana |
 | Occupation | Developer |
 | E-mail | <adriana.e.pena@gmail.com> |
 | GitHub | <https://github.com/adrianapvent/> |
