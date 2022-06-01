@@ -1,7 +1,7 @@
 ![MIT](https://img.shields.io/badge/License-MIT-blue)
 # Employee Footprint
 ## Description
-Welcome to the Employee Footprint project!
+Welcome to the Employee Tracker project!
 An application that manages a company's employee database.
 You may visit the deployed [website]() to try it out for yourself!
 ## Table of Contents
